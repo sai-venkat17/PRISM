@@ -1,0 +1,4 @@
+Node 1 has pagerank value : 0.213591 
+Node 2 has pagerank value : 0.274102 
+Node 3 has pagerank value : 0.414296 
+Node 4 has pagerank value : 0.0980108 

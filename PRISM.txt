@@ -1,0 +1,11 @@
+# Running the Serial Code :
+    > g++ -fopenmp Serial_PageRank.cpp 
+    > .\a.exe "PageRank_Dataset.txt" 3774768 0.0001 0.85
+
+# Running the Parallel Code :
+    > g++ -fopenmp Parallel_PageRank.cpp  
+    > .\a.exe "PageRank_Dataset.txt" 3774768 0.0001 0.85
+
+# Running the Distibuted Code :
+    > Google Colab Notebook 
+    > Google Cloud Dataproc Cluster
