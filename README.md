@@ -10,4 +10,4 @@ of users in social media, ranking authors based on research paper citations etc.
 assumption is that more important websites are likely to receive more links from other
 websites.
 
-In this project we improved this Page rank by reducing the time consumption and enforcing personalization to it
+In this project we improved this Page rank by reducing the time consumption and enforcing personalization to it.
